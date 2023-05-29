@@ -557,3 +557,24 @@ h3 {
 .about {
   margin-top: 50px;
 }
+
+.full-name {
+  display: flex;
+}
+
+.full-name img {
+  padding-top: 9px;
+  padding-right: 3px;
+}
+
+.work-info {
+  margin-left: 15px;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.work-title {
+  color: #fdd835;
+  font-weight: bold;
+}

@@ -41,7 +41,7 @@ h3 {
 
 .resume {
   width: 960px;
-  background: #474787;
+  background: #49497d;
   color: #ffffff;
   margin: 20px auto;
   box-shadow: 10px 10px #2c2c54;
@@ -65,7 +65,7 @@ h3 {
 .resume .base {
   width: 51%;
   padding: 30px 15px;
-  background: #5758BB;
+  background: #67679b;
   color: #ffffff;
 }
 
@@ -80,7 +80,7 @@ h3 {
 .resume .base .profile::after {
   content: "";
   position: absolute;
-  background: #474787;
+  background: #49497d;
   width: 100%;
   height: 30px;
   bottom: -15px;
@@ -94,7 +94,7 @@ h3 {
   border-radius: 50%;
   height: 300px;
   object-fit: cover;
-  border: 12px solid #5758BB;
+  border: 12px solid #67679b;
 }
 
 .resume .base .profile .photo {
@@ -107,7 +107,7 @@ h3 {
   font-size: 100px;
   text-align: center;
   margin: auto;
-  color: #5758BB;
+  color: #67679b;
 }
 
 .resume .base .profile .info {
@@ -119,7 +119,7 @@ h3 {
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 1.75em;
-  color: #474787;
+  color: #49497d;
 }
 
 .resume .base .profile .info .job {
@@ -127,7 +127,7 @@ h3 {
   margin-bottom: 0;
   font-size: 1.5em;
 
-  color: #5758BB;
+  color: #67679b;
 }
 
 .resume .base .contact div {
@@ -199,7 +199,7 @@ h3 {
   height: 60px;
   border-radius: 50%;
   line-height: 60px;
-  color: #5758BB;
+  color: #67679b;
   margin: 0 10px 10px 10px;
   transition-duration: 0.3s;
 }
@@ -235,7 +235,7 @@ h3 {
 }
 
 .resume .func h3 i {
-  color: #5758BB;
+  color: #67679b;
   background: #fdf69f;
   width: 42px;
   height: 42px;
@@ -348,7 +348,7 @@ h3 {
 
 .resume .func .work {
   width: 100%;
-  background: #5758BB;
+  background: #67679b;
   padding: 15px;
   margin: 20px 4% 15px 0;
 }
@@ -357,7 +357,7 @@ h3 {
 
 .resume .base .skills-prog {
   clear: both;
-  background: #5758BB;
+  background: #67679b;
 }
 
 .resume .base .skills-prog i {
@@ -406,7 +406,7 @@ h3 {
 
 .resume .base .skills-soft {
   clear: both;
-  background: #5758BB;
+  background: #67679b;
 }
 
 
@@ -455,7 +455,7 @@ h3 {
 }
 
 .resume .base .interests {
-  background: #5758BB;
+  background: #67679b;
 }
 
 .resume .base .interests-items {
